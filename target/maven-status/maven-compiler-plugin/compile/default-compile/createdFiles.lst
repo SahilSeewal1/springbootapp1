@@ -1,0 +1,16 @@
+com/example/UserMovieProject/models/queryModels/GenreWatchCount.class
+com/example/UserMovieProject/UserMovieProjectApplication.class
+com/example/UserMovieProject/models/tables/User.class
+com/example/UserMovieProject/utils/MovieUtils.class
+com/example/UserMovieProject/repo/RatingsRepo.class
+com/example/UserMovieProject/config/MovieConfig.class
+com/example/UserMovieProject/repo/UserRepo.class
+com/example/UserMovieProject/config/SwaggerConfig.class
+com/example/UserMovieProject/models/tables/Ratings.class
+com/example/UserMovieProject/models/tables/Movies.class
+com/example/UserMovieProject/repo/MovieRepo.class
+com/example/UserMovieProject/routes/UserRoutes.class
+com/example/UserMovieProject/models/tables/Genre.class
+com/example/UserMovieProject/routes/MovieRoutes.class
+com/example/UserMovieProject/repo/GenreRepo.class
+com/example/UserMovieProject/models/queryModels/GenreYear.class
