@@ -1,5 +1,11 @@
 # Getting Started
 
+### Execute application in local using following command
+./mvnw spring-boot:run
+
+### Swaager link
+http://localhost:8080/swagger-ui/
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 

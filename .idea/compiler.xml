@@ -12,7 +12,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="UserMovieProject" options="-parameters" />
+      <module name="UserMovieProject" options="" />
     </option>
   </component>
 </project>
