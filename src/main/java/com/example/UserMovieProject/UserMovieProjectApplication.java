@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class UserMovieProjectApplication {
 
 	public static void main(String[] args) {
+		System.setProperty("https.protocols", "TLSv1.1");
 		SpringApplication.run(UserMovieProjectApplication.class, args);
 	}
-
 }
